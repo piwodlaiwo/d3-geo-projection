@@ -873,7 +873,7 @@ The [Mollweide projection](#geoMollweide) interrupted into two (equal-area) hemi
 
 <a href="#geoInterruptedQuarticAuthalic" name="geoInterruptedQuarticAuthalic">#</a> d3.<b>geoInterruptedQuarticAuthalic</b>() [<>](https://github.com/d3/d3-geo-projection/blob/master/src/quarticAuthalic.js "Source")
 
-[<img src="https://raw.githubusercontent.com/d3/d3-geo-projection/master/img/nicolosi.png" width="480" height="250">](https://observablehq.com/@piwodlaiwo/interrupted-quartic-authalic-projection)
+[<img src="https://raw.githubusercontent.com/d3/d3-geo-projection/master/img/interruptedQuarticAuthalic.png" width="480" height="250">](https://observablehq.com/@piwodlaiwo/interrupted-quartic-authalic-projection)
 
 The [Quartic Authalic projection](https://observablehq.com/@piwodlaiwo/quartic-authalic) interrupted into two hemispheres.
 
