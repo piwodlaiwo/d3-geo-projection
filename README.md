@@ -875,7 +875,7 @@ The [Mollweide projection](#geoMollweide) interrupted into two (equal-area) hemi
 
 [<img src="https://raw.githubusercontent.com/d3/d3-geo-projection/master/img/interruptedQuarticAuthalic.png" width="480" height="250">](https://observablehq.com/@piwodlaiwo/interrupted-quartic-authalic-projection)
 
-The [Quartic Authalic projection](https://observablehq.com/@piwodlaiwo/quartic-authalic) interrupted into two hemispheres.
+The [Quartic Authalic projection](https://observablehq.com/@d3/hammer?b=Infinity) interrupted into two hemispheres.
 
 ### Polyhedral Projections
 
